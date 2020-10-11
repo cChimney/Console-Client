@@ -1,0 +1,4 @@
+send /ping
+wait 500 
+send /server factions
+wait 500
